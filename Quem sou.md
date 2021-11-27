@@ -1,0 +1,5 @@
+- 👋 Olá, sou Alex Domingos
+- 👀 Estou interessado em criar meu portfólio
+- 🌱 Atualmente estou aprendendo html, css e javascript
+- 💞️ Estou procurando colaborar em html, css e javascript por enquanto
+- 📫 Meu email é alexdomingos3570@outlook.com
